@@ -1,0 +1,31 @@
+[
+    {
+      "id": "1",
+      "name": "My Web Project",
+      "description": "I combined all my small projects and made it to a web project",
+      "languages": "HTML, CSS, JavaScript, TailWInd Css",
+      "Live":"https://prajuyadv.github.io/WebProject/"
+    },
+    {
+      "id": "2",
+      "name": "My Figma App",
+      "description": "I developed a figma design and wrote code for it in React by using TailwindWind Css",
+      "languages": "HTML, CSS, JavaScript, TailWInd Css",
+      "Live":" https://prajuyadv.github.io/figmaApp/"
+      },
+    {
+      "id": "3",
+      "name": "My Dynamic Page",
+      "description": "developed a responsive dynamic page",
+      "languages": "HTML, CSS, JavaScript, TailWInd Css",
+      "Live":"https://prajuyadv.github.io/dynamicPage/"
+    },
+    {
+      "id": "4",
+      "name": "TODo App Redux",
+      "description": "Full-Time",
+      "languages": "HTML, CSS, JavaScript, TailWInd Css",
+      "Live":"https://prajuyadv.github.io/todo-app-redux/"
+    }
+  ]
+  
